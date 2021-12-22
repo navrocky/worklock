@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TimerButton.qml</file>
+        <file>Header.qml</file>
+        <file>GradientBackground.qml</file>
+        <file>RippleMask.qml</file>
+    </qresource>
+</RCC>

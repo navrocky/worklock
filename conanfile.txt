@@ -1,0 +1,5 @@
+[requires]
+qmllivereload/0.1@qmllivereload/testing
+
+[generators]
+cmake
